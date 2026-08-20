@@ -1,0 +1,53 @@
+!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+ </head>
+ <body>
+     <nav>
+         <a href="#about">About Me</a>
+         <a href="#portfolio">Portfolio</a>
+         <a href="#skills">Skills</a>
+     </nav>
+     <section id="home">
+         <h1>Welcome to My Portfolio</h1>
+         <p>Hello! I am an aspiring trouble shooter and building a beautiful and functional Device systems. This portfolio showcases my skills, projects, and journey in the world of Computer Development.</p>
+     </section>
+     <section id="about">
+         <h2>About Me</h2>
+         <p>Hi, I’m Kevin A. Dalanon, I’m passionate about exploring computer system components and web page development. I love crafting digital experiences that are not only visually appealing but also intuitive and user-friendly. During my college years, I’m fully committed to learning new technologies and sharpening my skills every day. My ultimate goal is to become a professional IT troubleshooter — solving technical challenges and contributing to meaningful projects that help people and businesses grow..</p>
+         <p>To secure a position where I can apply my knowledge in computer hardware and web development, grow into a professional IT troubleshooter, and contribute to projects that create real value for users and businesses.</p>
+     </secction>
+     <section id="portfolio">
+         <h2>My Portfolio</h2>
+         <div class="project-card">
+             <h3>Project 1 – Trouble Shooting</h3>
+             <p>Checking power cables, restart the computer, Identify a Parts of Computer and i can use built-in tools.</p> 
+         </div>
+         <div class="project-card">
+             <h3>Project 2 – Developer</h3>
+             <p>Developer to build application and games.</p>
+         </div>
+     </section>
+     <section id="skills">
+         <h2>My Skills & Tecnologies</h2>
+         <ul>
+             <li><strong>Trouble shooting</strong></li>
+             <li><strong>Developer</strong></li>
+             <li><strong>File Organizer</strong></li>
+         </ul>
+     </section>
+     <section id="contact">
+         <h2>My Contact Section</h2>
+         <ul>
+             <li>Email: <a href="mailto:kevin.dalanon30@gmail.com">kevin.dalanon30@gmail.com</a></li>
+             <li>GitHub: <a href=mailto:github.com/dalanonkevin></a
+             <li>HomeAddress: Gulayan Catmon Malabon City</li>
+         </ul>
+     </section>
+     <footer>
+         <p>&copy; 2026 kevin – Web Development Portfolio</p>
+     </footer>
+ </body>
+ </html>
